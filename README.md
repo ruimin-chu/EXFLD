@@ -11,5 +11,4 @@ To train the TFT for online detection:
 - `TFTTrain.py`
 To run online detection for EXPLD evaluation, use the following commands:
 - `python OnlineDetection.py`
-The example code to generation explanations and interpretable results can be found in:
-- `Explanations/demo.ipynb`
+The example code to generation explanations and interpretable results can be found in under Explanations folder
